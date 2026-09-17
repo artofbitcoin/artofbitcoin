@@ -6,7 +6,7 @@ Exploration technique de Bitcoin, des preuves zero-knowledge et des infrastructu
 
 ## Parcours français
 
-Le [parcours français](docs/fr/README.md) rassemble 56 notes techniques courtes. Chaque chapitre isole un mécanisme identifiable dans les sources : Bitcoin, actifs enveloppés, Base, HyperEVM, Hyperliquid, ZK et FHE. Les garanties, hypothèses et limites sont séparées ; aucun résultat de test non exécuté n’est revendiqué.
+Le [parcours français](docs/fr/README.md) rassemble 62 notes techniques courtes. Chaque chapitre isole un mécanisme identifiable dans les sources : Bitcoin, actifs enveloppés, Base, HyperEVM, Hyperliquid, ZK et FHE. Les garanties, hypothèses et limites sont séparées ; aucun résultat de test non exécuté n’est revendiqué.
 
 ## Axes de travail
 
